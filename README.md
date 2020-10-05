@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Professional JavaScript, level one**
 
-- 🌱 I’m currently learning **I am currently studying web technologies and dream of becoming a first-class developer in the IT industry world**
+- 🌱 I’m currently learning **I am currently studying web technologies and my dream is to become the first-class developer in my industry**
 
 - 💬 Ask me about **HTML 5, CSS 3, JavaScript**
 
 - 📫 How to reach me **koswebdev@gmail.com**
 
-- ⚡ Fun fact **I will probably measure 3 times before I cut once**
+- ⚡ Fun fact **I am a measure twice, cut once type of guy**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
